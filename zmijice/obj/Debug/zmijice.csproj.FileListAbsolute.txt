@@ -1,0 +1,14 @@
+C:\Users\manic\source\repos\zmijice\zmijice\bin\Debug\zmijice.exe.config
+C:\Users\manic\source\repos\zmijice\zmijice\bin\Debug\zmijice.exe
+C:\Users\manic\source\repos\zmijice\zmijice\bin\Debug\zmijice.pdb
+C:\Users\manic\source\repos\zmijice\zmijice\obj\Debug\zmijice.csprojAssemblyReference.cache
+C:\Users\manic\source\repos\zmijice\zmijice\obj\Debug\zmijice.Form1.resources
+C:\Users\manic\source\repos\zmijice\zmijice\obj\Debug\zmijice.Properties.Resources.resources
+C:\Users\manic\source\repos\zmijice\zmijice\obj\Debug\zmijice.csproj.GenerateResource.cache
+C:\Users\manic\source\repos\zmijice\zmijice\obj\Debug\zmijice.csproj.CoreCompileInputs.cache
+C:\Users\manic\source\repos\zmijice\zmijice\obj\Debug\zmijice.exe
+C:\Users\manic\source\repos\zmijice\zmijice\obj\Debug\zmijice.pdb
+C:\Users\manic\source\repos\zmijice\zmijice\bin\Debug\zmijice.exe.manifest
+C:\Users\manic\source\repos\zmijice\zmijice\bin\Debug\zmijice.application
+C:\Users\manic\source\repos\zmijice\zmijice\obj\Debug\zmijice.exe.manifest
+C:\Users\manic\source\repos\zmijice\zmijice\obj\Debug\zmijice.application
